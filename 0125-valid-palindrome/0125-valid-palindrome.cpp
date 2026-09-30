@@ -8,7 +8,7 @@ bool isAlphaNum(char ch){
 }
     bool isPalindrome(string s) {
         int st=0,end=s.length()-1;
-        while(st<=end){
+        while(st<end){
             if(!isAlphaNum(s[st])){
                 st++;
                 continue;
