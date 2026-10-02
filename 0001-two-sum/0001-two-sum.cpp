@@ -6,11 +6,11 @@ public:
 
         for(int i=0;i<arr.size();i++){
             int first=arr[i];
-            int second=tar-first;
+            int sec=tar-first;
 
-            if(m.find(second)!=m.end()){
+            if(m.find(sec)!=m.end()){
                 ans.push_back(i);
-                ans.push_back(m[second]);
+                ans.push_back(m[sec]);
                 break;
             }
             m[first]=i;
