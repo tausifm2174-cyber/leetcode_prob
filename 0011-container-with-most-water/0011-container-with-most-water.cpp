@@ -1,27 +1,22 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int left = 0;
-        int right = height.size() - 1;
+        int lp = 0;
+        int rp = height.size() - 1;
 
         int maxWater = 0;
 
-        while (left < right) {
+        while (lp < rp) {
 
-            int width = right - left;
+            int w = rp - lp;
 
-            int h = min(height[left], height[right]);
+            int h = min(height[lp], height[rp]);
 
-            int area = width * h;
+            int area = w * h;
 
             maxWater = max(maxWater, area);
 
-            if (height[left] < height[right]) {
-                left++;
-            }
-            else {
-                right--;
-            }
+            height[lp] < height[rp] ? lp++:rp--;
         }
 
         return maxWater;
