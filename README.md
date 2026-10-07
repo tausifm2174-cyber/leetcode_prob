@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0392-is-subsequence) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0704-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tausifm2174-cyber/leetcode_prob/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
